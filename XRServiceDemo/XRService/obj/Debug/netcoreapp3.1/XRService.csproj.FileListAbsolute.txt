@@ -1,0 +1,9 @@
+C:\Projects\XRServiceDemo\XRServiceDemo\XRService\bin\Debug\netcoreapp3.1\XRService.deps.json
+C:\Projects\XRServiceDemo\XRServiceDemo\XRService\bin\Debug\netcoreapp3.1\XRService.dll
+C:\Projects\XRServiceDemo\XRServiceDemo\XRService\bin\Debug\netcoreapp3.1\XRService.pdb
+C:\Projects\XRServiceDemo\XRServiceDemo\XRService\obj\Debug\netcoreapp3.1\XRService.csprojAssemblyReference.cache
+C:\Projects\XRServiceDemo\XRServiceDemo\XRService\obj\Debug\netcoreapp3.1\XRService.AssemblyInfoInputs.cache
+C:\Projects\XRServiceDemo\XRServiceDemo\XRService\obj\Debug\netcoreapp3.1\XRService.AssemblyInfo.cs
+C:\Projects\XRServiceDemo\XRServiceDemo\XRService\obj\Debug\netcoreapp3.1\XRService.dll
+C:\Projects\XRServiceDemo\XRServiceDemo\XRService\obj\Debug\netcoreapp3.1\XRService.pdb
+C:\Projects\XRServiceDemo\XRServiceDemo\XRService\obj\Debug\netcoreapp3.1\XRService.csproj.CoreCompileInputs.cache
